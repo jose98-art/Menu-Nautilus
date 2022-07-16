@@ -12,3 +12,11 @@ body{
     width: 850px;
     height: 100vh;
  }
+ @media screen and (min-width:300px) {
+    .pdfview{
+        margin: auto;
+        display: block;
+        width: 850px;
+        height: 100vh;
+     }
+ }
