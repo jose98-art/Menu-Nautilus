@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: block;
+    margin: 0;
+    background-color: rgb(128,128,128);
+}
+@media screen and (min-width:1000px) {
+    iframe{
+    display: block;
+    overflow: hidden;
+    margin: auto;
+    width: 60vw;
+    height: 100vh;
+}
+}
+@media screen and (min-width:300px) {
+    iframe{
+    display: block;
+    overflow: hidden;
+    margin: auto;
+    width: 100vw;
+    height: 100vh;
+}
+}
+
+
+ 
