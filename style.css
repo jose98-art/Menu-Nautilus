@@ -3,20 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    background-color: rgb(128,128,128);
-}
- .pdfview{
+.pdfview{
     margin: auto;
     display: block;
-    width: 850px;
+    width:850px;
     height: 100vh;
- }
- @media screen and (min-width:300px) {
-    .pdfview{
-        margin: auto;
-        display: block;
-        width: 850px;
-        height: 100vh;
-     }
  }
